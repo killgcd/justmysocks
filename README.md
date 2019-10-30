@@ -82,4 +82,4 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><strong>转自：</strong><a style="color:#555" href="https://doubibackup.com/bandwagonhost-just-my-socks.html">逗比根据地-Just My Socks：搬瓦工官方Shadowsocks代理，多条线路，保证IP不被墙</a></p>
+<p><strong>转自：</strong><a class="link-gray" href="https://doubibackup.com/bandwagonhost-just-my-socks.html">逗比根据地-Just My Socks：搬瓦工官方Shadowsocks代理，多条线路，保证IP不被墙</a></p>
