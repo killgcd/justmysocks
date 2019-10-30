@@ -10,8 +10,7 @@
  <p><strong>Just My Socks怎么样？</strong>每个ss账号有5个线路，包括最快的搬瓦工CN2 GIA线路，速度很快。</p>
  <p><strong>哪些人适合用Just My Socks？</strong>如果你只是为了翻墙看看YouTube、刷刷ins，或者谷歌，那么你完全不需要折腾VPS，自建ss，Just My Socks可以非常方便的达到这些需求。</p>
  <h2 id="Just My Socks购买"><span id="Just_My_Socks-2">二、Just My Socks购买</span></h2>
- <p>Just My Socks 官网：<a rel="nofollow" href="https://lihi1.com/l0QrZ">Just My Socks 官网</a></p>
- <p>目前，Just My Socks一共有4种方案：</p>
+  <p>目前，Just My Socks一共有4种方案：</p>
  <table id="tablepress-1">
  <thead>
  <tr>
@@ -59,7 +58,9 @@
  </tbody>
  </table>
  <p><strong>我该选择哪一款Just My Socks？</strong>一般来说，如果只是谷歌查资料，直接选择最便宜的方案就行，如果你爱看视频，并且非常频繁，那么就选择500或者1000的，需要注意的是<span style="color: #ff0000;">便宜方案都有设备限制</span>，如果你想多个人一起用，那么建议选择1000的，不限制设备数量。</p>
+ 
  <p>选择合适的Just My Socks方案后，点击“立即购买”进入购买页，确认配置无误后，建议年付（Annually），只需要付10个月的价格，点击Continue继续：<br>
+ <p>Just My Socks 官网：<a rel="nofollow" href="https://lihi1.com/l0QrZ">Just My Socks 官网</a></p>
  <img style="max-width:100%" src="images/jms-1.png" alt="Just My Socks 购买教程"></p>
  <h2 id="Just My Socks优惠码"><span id="Just_My_Socks-3">三、Just My Socks优惠码</span></h2>
  <p>在购买Just My Socks时，我们可以使用Just My Socks优惠码 <strong>JMS9272283&nbsp;</strong>获取5.2%循环优惠，输入优惠码后点击Validate Code即可使用优惠码，点击Checkout付款：<br>
