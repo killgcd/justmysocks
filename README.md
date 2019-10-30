@@ -1,4 +1,4 @@
-			<h1>Just My Socks：搬瓦工官方翻墙服务，多条线路，IP不怕被墙</h1>
+<pre>			<h1>Just My Socks：搬瓦工官方翻墙服务，多条线路，IP不怕被墙</h1>
 
 			文章目录
 				<ul id="content-index-contents" ><li><a href="#Just%20My%20Socks%E4%BB%8B%E7%BB%8D" data-original-title="Just My Socks介绍"><span>Just My Socks介绍</span></a></li><li><a href="#Just%20My%20Socks%E8%B4%AD%E4%B9%B0" data-original-title="Just My Socks购买"><span>Just My Socks购买</span></a></li><li><a href="#Just%20My%20Socks%E4%BC%98%E6%83%A0%E7%A0%81" data-original-title="Just My Socks优惠码"><span>Just My Socks优惠码</span></a></li><li><a href="#Just%20My%20Socks%E6%B3%A8%E5%86%8C" data-original-title="Just My Socks注册"><span>Just My Socks注册</span></a></li><li><a href="#Just%20My%20Socks%E4%BF%A1%E6%81%AF%E6%9F%A5%E7%9C%8B" data-original-title="Just My Socks信息查看"><span>Just My Socks信息查看</span></a></li><li><a href="#Just%20My%20Socks%E6%80%8E%E4%B9%88%E7%94%A8" data-original-title="Just My Socks怎么用"><span>Just My Socks怎么用</span></a></li></ul>
@@ -75,5 +75,5 @@
 		<p>这里就可以看到shadowsocks详情了，包括shadowsocks加密方式，shadowsocks端口，shadowsocks密码和shadowsocks IP（有5个节点，域名形式发放）：<br>
 			<img style="max-width:100%" src="images/jms-5.png" alt="Just My Socks shadowsocks详情"></p>
 		<h2 id="Just My Socks怎么用"><span id="Just_My_Socks-6">六、Just My Socks怎么用</span></h2>
-		<p>有了shadowsocks账号后，接下来怎么用？剩下的就只需要配置shadowsocks客户端了，非常方便，详细的教程看这里：<a rel="nofollow" href="https://doubibackup.com/jeptq9ir-2.html" data-original-title="Shadowsocks的小白使用教程">Shadowsocks的小白使用教程</a></p>
+		<p>有了shadowsocks账号后，接下来怎么用？剩下的就只需要配置shadowsocks客户端了，非常方便，详细的教程看这里：<a rel="nofollow" href="https://doubibackup.com/jeptq9ir-2.html" data-original-title="Shadowsocks的小白使用教程">Shadowsocks的小白使用教程</a></p></pre>
 <pre style="border-left: solid 4px #1abc9c;"><strong>转载请超链接注明：</strong><a href="https://doubibackup.com/index.html">逗比根据地</a> » <a href="https://doubibackup.com/bandwagonhost-just-my-socks.html">Just My Socks：搬瓦工官方Shadowsocks代理，多条线路，保证IP不被墙</a></pre><pre><strong>责任声明：</strong>本库一切资源仅用作交流学习，请勿用作商业或违法行为！如造成任何后果，本库概不负责！</pre>
