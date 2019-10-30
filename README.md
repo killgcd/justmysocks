@@ -79,7 +79,7 @@
  
 <p><strong>反馈交流：</strong><a href="https://github.com/bannedbook/fanqiang/issues">如果有任何问题，欢迎大家交流！</a></p>
 <p><strong>责任声明：</strong>本库一切资源仅用作交流学习，请勿用作商业或违法行为！如造成任何后果，本库概不负责！</p>
-<p></p>
-<p></p>
-<p></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <p><strong>转自：</strong><a href="https://doubibackup.com/bandwagonhost-just-my-socks.html">逗比根据地-Just My Socks：搬瓦工官方Shadowsocks代理，多条线路，保证IP不被墙</a></p>
