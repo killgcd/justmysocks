@@ -1,7 +1,7 @@
 <h1>Just My Socks：搬瓦工官方翻墙服务，多条线路，IP不怕被墙</h1>
+<h2>力荐！Just My Socks - 非常靠谱稳定的shadowsocks代理服务！</h2>
 <h2>文章目录</h2>
  <ol id="content-index-contents" ><li><a href="#Just%20My%20Socks%E4%BB%8B%E7%BB%8D" data-original-title="Just My Socks介绍"><span>Just My Socks介绍</span></a></li><li><a href="#Just%20My%20Socks%E8%B4%AD%E4%B9%B0" data-original-title="Just My Socks购买"><span>Just My Socks购买</span></a></li><li><a href="#Just%20My%20Socks%E4%BC%98%E6%83%A0%E7%A0%81" data-original-title="Just My Socks优惠码"><span>Just My Socks优惠码</span></a></li><li><a href="#Just%20My%20Socks%E6%B3%A8%E5%86%8C" data-original-title="Just My Socks注册"><span>Just My Socks注册</span></a></li><li><a href="#Just%20My%20Socks%E4%BF%A1%E6%81%AF%E6%9F%A5%E7%9C%8B" data-original-title="Just My Socks信息查看"><span>Just My Socks信息查看</span></a></li><li><a href="#Just%20My%20Socks%E6%80%8E%E4%B9%88%E7%94%A8" data-original-title="Just My Socks怎么用"><span>Just My Socks怎么用</span></a></li></ol>
- 力荐！Just My Socks - 非常靠谱稳定的shadowsocks代理服务！
  <p>Just My Socks是目前非常火热的一个Shadowsocks服务商（机场），由搬瓦工官方推出，每个服务提供5条线路，包括最快的CN2 GIA线路。Just My Socks最大的优势是保证IP不被墙，如果IP被墙，会自动更换新的可用IP给用户。对于只是需要翻墙看看YouTube、ins或者谷歌以及谷歌学术的朋友，Just My Socks是一个非常合适的选择。</p>
  <h2 id="Just My Socks介绍"><span id="Just_My_Socks">一、Just My Socks介绍</span></h2>
  <p>Just My Socks是<strong>搬瓦工官方</strong>出品的Shadowsocks代理服务，支持支付宝付款，提供ss账号，每个账号有5条线路，包括<strong>搬瓦工CN2 GIA线路</strong>，性价比很高且非常稳定，<strong>保证IP可用，被封自动切换</strong>。</p>
