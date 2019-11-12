@@ -113,7 +113,7 @@ Just My Socks 官网：<a rel="nofollow" href="https://lihi1.com/l0QrZ">Just My 
 </p>
 <h2 id="user-content-just6"><span id="just_my_socks-6">六、Just My Socks怎么用</span></h2>
 <p class="keepp">
-有了shadowsocks账号后，接下来怎么用？剩下的就只需要配置shadowsocks客户端了，非常方便，详细的教程看这里：<a rel="nofollow" href="https://doubibackup.com/jeptq9ir-2.html">Shadowsocks的小白使用教程</a>
+有了shadowsocks账号后，接下来怎么用？剩下的就只需要配置shadowsocks客户端了，非常方便，详细的教程看这里：<a rel="nofollow" href="https://doubi.us/jeptq9ir-2.html">Shadowsocks的小白使用教程</a>
 </p>
 
 <p class="keepp"><strong>反馈交流：</strong><a href="https://github.com/bannedbook/fanqiang/issues"  rel="nofollow">如果有任何问题，欢迎大家交流！</a></p>
