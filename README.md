@@ -113,7 +113,7 @@ Just My Socks 官网：<a rel="nofollow" href="https://lihi1.com/l0QrZ">Just My 
 </p>
 <h2 id="user-content-just6"><span id="just_my_socks-6">六、Just My Socks怎么用</span></h2>
 <p class="keepp">
-有了shadowsocks账号后，接下来怎么用？剩下的只需要配置shadowsocks客户端了，非常方便，详细的教程看这里（该教程链接已被墙，请<a href="https://github.com/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85">翻墙</a>查看）：<a rel="nofollow" href="https://doubi.us/jeptq9ir-2.html">Shadowsocks的小白使用教程</a>
+有了shadowsocks账号后，接下来怎么用？剩下的只需要配置shadowsocks客户端了（安卓客户端推荐：<a  href="https://git.io/afq">SpeedUp VPN</a>），非常方便，详细的教程看这里（该教程链接已被墙，请<a href="https://github.com/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85">翻墙</a>查看）：<a rel="nofollow" href="https://doubi.us/jeptq9ir-2.html">Shadowsocks的小白使用教程</a>
 </p>
 
 <p class="keepp"><strong>反馈交流：</strong><a href="https://github.com/bannedbook/fanqiang/issues"  rel="nofollow">如果有任何问题，欢迎大家交流！</a></p>
