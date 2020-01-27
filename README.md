@@ -117,7 +117,7 @@ Just My Socks 官网：<a rel="nofollow" href="https://lihi1.com/l0QrZ">Just My 
 </p>	 
 <h3>在just_my_socks网站，参考下图下载对应操作系统的客户端</h3>
 <img style="max-width:100%" src="https://github.com/killgcd/justmysocks/raw/master/images/dccn.jpg" alt="SS客户端下载" />
-<img style="max-width:100%" src="https://github.com/killgcd/justmysocks/raw/master/images/dccn.jpg" alt="SS client download" />
+<img style="max-width:100%" src="https://github.com/killgcd/justmysocks/raw/master/images/dcen.jpg" alt="SS client download" />
 <p class="keepp"><strong>反馈交流：</strong><a href="https://github.com/bannedbook/fanqiang/issues"  rel="nofollow">如果有任何问题，欢迎大家交流！</a></p>
 <p class="keepp"><strong>免责声明：</strong>我们推荐的任何产品和服务已努力确保可靠持久，但我们不为此承担任何责任。本库一切资源仅用作交流学习，请勿用作商业或违法行为！如造成任何后果，本库概不负责！</p>
 <p class="keepp">&nbsp;</p>
