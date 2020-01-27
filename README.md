@@ -115,7 +115,6 @@ Just My Socks 官网：<a rel="nofollow" href="https://lihi1.com/l0QrZ">Just My 
 <p class="keepp">
 有了shadowsocks账号后，接下来怎么用？剩下的只需要下载安装Shadowsocks客户端并导入购买的服务器即可使用啦。
 </p>	 
-**Shadowsocks客户端客户端下载：**
 <a href="https://justmysocks2.net/members/index.php?rp=/knowledgebase/5/Software-download-links.html?aff=6964">Shadowsocks客户端下载</a>，下载后安装，然后把购买的服务器导入软件或APP即可使用啦。
 </p>
 
