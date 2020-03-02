@@ -17,7 +17,7 @@
 
 <strong> Is `Just My Socks` reliable? </strong> Unlike other `Shadowsocks` Service, `Just My Socks` is officially launched by [BandwagonHost](https://bandwagonhost.com/aff.php?aff=57057) and has been operating steadily for more than a year (launched in October 2018). It can be said that it is very reliable.
 
-<strong> How about `Just My Socks`? </strong> Each ss account has 5 lines, including the fastest CN2 GIA line, which is very fast.
+<strong> How about `Just My Socks`? </strong> Each user get 5 lines, including the fastest CN2 GIA line, which is very fast.
 
 <strong> Who is right for `Just My Socks`? </strong> If you are just looking at YouTube, brushing ins, or Google just to look over the wall, then you Don't need to toss VPS at all, you can build your own ss, `Just My Socks` can easily meet these needs. <strong> `Just My Socks` disadvantages </strong>: Can't watch Netflix.
 
