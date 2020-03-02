@@ -13,7 +13,7 @@
 
 ## <span id = "user-content-just1"> <span id = "just_my_socks"> I. Introduction to `Just My Socks` </span> </span>
 
-`Just My Socks` is a `Shadowsocks` agency service produced by <strong> Official [bandwagonhost.com](https://bandwagonhost.com/aff.php?aff=57057)s </strong>. It supports Alipay payment and provides ss account numbers. Each account has 5 lines, including <strong> Bridgeworker CN2 GIA lines </strong> Cost-effective and very stable, more flexible and cost-effective than buying a VPS, and saves toss. <Strong> Ensure that IP is available and blocked automatically switch </strong>
+`Just My Socks` is a `Shadowsocks` agency service produced by <strong> Official [bandwagonhost.com](https://bandwagonhost.com/aff.php?aff=57057)s </strong>. It supports Paypal payment and provides ss account numbers. Each account has 5 lines, including <strong> Bridgeworker CN2 GIA lines </strong> Cost-effective and very stable, more flexible and cost-effective than buying a VPS, and saves toss. <Strong> Ensure that IP is available and blocked automatically switch </strong>
 
 <strong> Is `Just My Socks` reliable? </strong> Unlike other `Shadowsocks` Service, `Just My Socks` is officially launched by [bandwagonhost.com](https://bandwagonhost.com/aff.php?aff=57057) and has been operating steadily for more than a year (launched in October 2018). It can be said that it is very reliable.
 
@@ -90,11 +90,11 @@ When buying `Just My Socks`, we can use the `Just My Socks` discount code: <stro
 
 ## <span id = "user-content-just4"> <span id = "just_my_socks-4"> Fourth, `Just My Socks` registration </span> </span>
 
-Here you need to fill in your `Just My Socks` account information: <strong> Don't hang the agent registration, fill it out truthfully </strong>, otherwise it may be considered fraudulent, where the province can write Pinyin directly (such as Shandong), and choose the payment method as Paypal ( Paypal is more secure) or Alipay. After ticking the terms of service, click Complete Order to complete the order:
+Here you need to fill in your `Just My Socks` account information: <strong> Don't hang the agent registration, fill it out truthfully </strong>, otherwise it may be considered fraudulent, where the province can write Pinyin directly (such as Shandong), and choose the payment method as Paypal ( Paypal is more secure) . After ticking the terms of service, click Complete Order to complete the order:
 <br class="keepp">
 <a href="https://github.com/killgcd/justmysocks/blob/master/images/jms-3.png" target="_blank" rel="noopener noreferrer"> <img style = "max-width: 100% " src ="https://github.com/killgcd/justmysocks/raw/master/images/jms-3.png" alt =" `Just My Socks` registration information "/> </a>
 <br class="keepp">
-After paying with Alipay, your `Just My Socks` service is purchased.
+After paying , your `Just My Socks` service is purchased.
 
 ## <span id = "user-content-just5"> <span id = "just_my_socks-5"> Fifth, `Just My Socks` information view </span> </span>
 
