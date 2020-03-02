@@ -9,13 +9,13 @@
 * <a href="#user-content-just6"> How to use `Just My Socks` </a> 
 
 
-`Just My Socks` is currently a very hot `Shadowsocks` service provider, officially launched by the [bandwagonhost.com](https://bandwagonhost.com/aff.php?aff=57057), each service provides 5 lines, including the fastest CN2 GIA line. The biggest advantage of `Just My Socks` is to ensure that the IP is not blocked. If the IP is blocked, it will automatically replace the new available IP to the user. For friends who just need to look over YouTube, Ins or Google and Google Scholar, `Just My Socks` is a very suitable choice.
+`Just My Socks` is currently a very hot `Shadowsocks` service provider, officially launched by the [BandwagonHost](https://bandwagonhost.com/aff.php?aff=57057), each service provides 5 lines, including the fastest CN2 GIA line. The biggest advantage of `Just My Socks` is to ensure that the IP is not blocked. If the IP is blocked, it will automatically replace the new available IP to the user. For friends who just need to look over YouTube, Ins or Google and Google Scholar, `Just My Socks` is a very suitable choice.
 
 ## <span id = "user-content-just1"> <span id = "just_my_socks"> I. Introduction to `Just My Socks` </span> </span>
 
-`Just My Socks` is a `Shadowsocks` proxy service produced by <strong> Official [bandwagonhost.com](https://bandwagonhost.com/aff.php?aff=57057)s </strong>. It supports Paypal payment and provides ss account numbers. Each account has 5 lines, including <strong> Bridgeworker CN2 GIA lines </strong> Cost-effective and very stable, more flexible and cost-effective than buying a VPS, and saves toss. <Strong> Ensure that IP is available and blocked automatically switch </strong>
+`Just My Socks` is a `Shadowsocks` proxy service produced by <strong> Official [BandwagonHost](https://bandwagonhost.com/aff.php?aff=57057) </strong>. It supports Paypal payment and provides ss account numbers. Each account has 5 lines, including <strong> Bridgeworker CN2 GIA lines </strong> Cost-effective and very stable, more flexible and cost-effective than buying a VPS, and saves toss. <Strong> Ensure that IP is available and blocked automatically switch </strong>
 
-<strong> Is `Just My Socks` reliable? </strong> Unlike other `Shadowsocks` Service, `Just My Socks` is officially launched by [bandwagonhost.com](https://bandwagonhost.com/aff.php?aff=57057) and has been operating steadily for more than a year (launched in October 2018). It can be said that it is very reliable.
+<strong> Is `Just My Socks` reliable? </strong> Unlike other `Shadowsocks` Service, `Just My Socks` is officially launched by [BandwagonHost](https://bandwagonhost.com/aff.php?aff=57057) and has been operating steadily for more than a year (launched in October 2018). It can be said that it is very reliable.
 
 <strong> How about `Just My Socks`? </strong> Each ss account has 5 lines, including the fastest CN2 GIA line, which is very fast.
 
