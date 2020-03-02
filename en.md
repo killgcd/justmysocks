@@ -43,7 +43,7 @@
 </thead>
 <tbody>
 <tr>
-<td>`Just My Socks` 100</td>
+<td>IMS100</td>
 <td><a rel="nofollow" href="https://lihi1.com/vbBxA"> Buy now </a></td>
 <td>1 GB</td>
 <td>100 GB / month</td>
@@ -51,7 +51,7 @@
 <td>Up to 3 devices are online at the same time (currently out of stock)</td>
 </tr>
 <tr>
-<td>`Just My Socks` 500</td>
+<td>IMS500</td>
 <td><a rel="nofollow" href="https://lihi1.com/cEsnp"> Buy now </a></td>
 <td>2.5 GB</td>
 <td>500 GB / month</td>
@@ -59,7 +59,7 @@
 <td>Up to 5 devices are online at the same time</td>
 </tr>
 <tr>
-<td>`Just My Socks` 1000</td>
+<td>IMS1000</td>
 <td><a rel="nofollow" href="https://lihi1.com/l28hA"> Buy now </a></td>
 <td>5 GB</td>
 <td>1TB / month</td>
@@ -67,7 +67,7 @@
 <td>Unlimited number of devices</td>
 </tr>
 <tr>
-<td>`Just My Socks` 5000</td>
+<td>IMS5000</td>
 <td><a rel="nofollow" href="https://lihi1.com/Tov44"> Buy now </a></td>
 <td>5 GB</td>
 <td>5TB / month</td>
