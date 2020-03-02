@@ -11,7 +11,7 @@
 
 `Just My Socks` is currently a very hot Shadowsocks service provider, officially launched by the [bandwagonhost.com](https://bandwagonhost.com/aff.php?aff=57057), each service provides 5 lines, including the fastest CN2 GIA line. The biggest advantage of `Just My Socks` is to ensure that the IP is not blocked. If the IP is blocked, it will automatically replace the new available IP to the user. For friends who just need to look over YouTube, Ins or Google and Google Scholar, `Just My Socks` is a very suitable choice.
 
-<h2 id = "user-content-just1"> <span id = "just_my_socks"> I. Introduction to `Just My Socks` </span> </h2>
+## <span id = "user-content-just1"> <span id = "just_my_socks"> I. Introduction to `Just My Socks` </span> </span>
 
 `Just My Socks` is a Shadowsocks agency service produced by <strong> Official [bandwagonhost.com](https://bandwagonhost.com/aff.php?aff=57057)s </strong>. It supports Alipay payment and provides ss account numbers. Each account has 5 lines, including <strong> Bridgeworker CN2 GIA lines </strong> Cost-effective and very stable, more flexible and cost-effective than buying a VPS, and saves toss. <Strong> Ensure that IP is available and blocked automatically switch </strong>
 
@@ -24,7 +24,7 @@
 <strong> Supported protocols: TCP or UDP? </strong>
 `Just My Socks` 100 only supports the TCP protocol, which is sufficient for browsing the web and using most streaming services such as YouTube. All packages starting from `Just My Socks` 500 support TCP and UDP protocols (see note below). Voice protocols (such as WhatsApp and some VOIP implementations) may require the UDP protocol. If your package is `Just My Socks` 100 and you want to use the UDP protocol, then you will need to upgrade to the `Just My Socks` 500 package.
 
-<h2 id = "user-content-just2"> <span id = "just_my_socks-2"> Second, `Just My Socks` purchase </span> </h2>
+## <span id = "user-content-just2"> <span id = "just_my_socks-2"> Second, `Just My Socks` purchase </span> </span>
 
  At present, `Just My Socks` has a total of 4 plans: 
 
@@ -82,13 +82,13 @@ After choosing the appropriate `Just My Socks` plan, click "Buy Now" to enter th
 `Just My Socks` official website: <a rel="nofollow" href="https://lihi1.com/l0QrZ"> `Just My Socks` official website </a>
 
 <a href="https://github.com/killgcd/justmysocks/blob/master/images/jms-1.png" target="_blank" rel="noopener noreferrer"> <img style = "max-width: 100% " src ="https://github.com/killgcd/justmysocks/raw/master/images/jms-1.png" alt =" `Just My Socks` Buying Tutorial "/> </a>
-<h2 id = "user-content-just3"> <span id = "just_my_socks-3"> Three, `Just My Socks` discount code </span> </h2>
+## <span id = "user-content-just3"> <span id = "just_my_socks-3"> Three, `Just My Socks` discount code </span> </span>
 
 When buying `Just My Socks`, we can use the `Just My Socks` discount code: <strong> JMS9272283 </strong> to get a 5.2% recurring discount. After entering the discount code, click Validate Code to use the discount code. Click Checkout to pay:
 <br class="keepp">
 <a href="https://github.com/killgcd/justmysocks/blob/master/images/jms-2.png" target="_blank" rel="noopener noreferrer"> <img style = "max-width: 100% " src ="https://github.com/killgcd/justmysocks/raw/master/images/jms-2.png" alt =" `Just My Socks` discount code "/> </a>
 
-<h2 id = "user-content-just4"> <span id = "just_my_socks-4"> Fourth, `Just My Socks` registration </span> </h2>
+## <span id = "user-content-just4"> <span id = "just_my_socks-4"> Fourth, `Just My Socks` registration </span> </span>
 
 Here you need to fill in your `Just My Socks` account information: <strong> Don't hang the agent registration, fill it out truthfully </strong>, otherwise it may be considered fraudulent, where the province can write Pinyin directly (such as Shandong), and choose the payment method as Paypal ( Paypal is more secure) or Alipay. After ticking the terms of service, click Complete Order to complete the order:
 <br class="keepp">
@@ -96,7 +96,7 @@ Here you need to fill in your `Just My Socks` account information: <strong> Don'
 <br class="keepp">
 After paying with Alipay, your `Just My Socks` service is purchased.
 
-<h2 id = "user-content-just5"> <span id = "just_my_socks-5"> Fifth, `Just My Socks` information view </span> </h2>
+## <span id = "user-content-just5"> <span id = "just_my_socks-5"> Fifth, `Just My Socks` information view </span> </span>
 
 After completing `Just My Socks` purchase, log in to <a rel="nofollow" href="https://lihi1.com/l0QrZ"> `Just My Socks` official website </a>, select Services-> My Services, and you will see you Just bought the service, click this service to see details:
 <br class="keepp">
@@ -106,7 +106,7 @@ Here you can see the details of shadowsocks, including shadowsocks encryption me
 <br class="keepp">
 <a href="https://github.com/killgcd/justmysocks/blob/master/images/jms-5.png" target="_blank" rel="noopener noreferrer"> <img style = "max-width: 100% " src ="https://github.com/killgcd/justmysocks/raw/master/images/jms-5.png" alt =" `Just My Socks` shadowsocks details "/> </a>
 
-<h2 id = "user-content-just6"> <span id = "just_my_socks-6"> Six, how to use `Just My Socks` </span> </h2>
+## <span id = "user-content-just6"> <span id = "just_my_socks-6"> Six, how to use `Just My Socks` </span> </span>
 
 After I have a shadowsocks account, how do I use it next? The rest only needs to download and install the Shadowsocks client and import the purchased server to use it.
 
