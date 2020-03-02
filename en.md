@@ -118,6 +118,6 @@ After I have a `Shadowsocks` account, how do I use it next? The rest only needs 
 
  <strong> Note: If you are not satisfied with the trial after purchase, you can request a refund: </strong> <a href="jmstk.md" rel="nofollow"> How does `Just My Socks` refund? (Refund conditions) </a> 
 
- <strong> Feedback and communication: </strong> <a href="https://github.com/bannedbook/fanqiang/issues" rel="nofollow"> If you have any questions, welcome everyone communicate with! </a> 
+ <strong> Feedback and communication: </strong> <a href="https://github.com/killgcd/justmysocks/issues" rel="nofollow"> If you have any questions, welcome everyone communicate with! </a> 
 
  <strong> Disclaimer: </strong> Any products and services we recommend have worked hard to ensure they are reliable and lasting, but we are not responsible for them. All resources in this library are only used for communication and learning, please do not use it for commercial or illegal activities! This library is not responsible for any consequences! 
