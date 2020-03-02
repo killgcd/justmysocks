@@ -1,13 +1,13 @@
-<h1>Highly recommended! `Just My Socks`-Very reliable and stable shadowsocks proxy service! </h1>
-<h2> Article directory </h2>
-<ol id = "user-content-content-index-contents">
- <li> <a href="#user-content-just1"> Introduction to `Just My Socks` </a> </li>
- <li> <a href="#user-content-just2"> `Just My Socks` purchase </a> </li>
- <li> <a href="#user-content-just3"> `Just My Socks` coupon code </a> </li>
- <li> <a href="#user-content-just4"> `Just My Socks` registration </a> </li>
- <li> <a href="#user-content-just5"> `Just My Socks` information review </a> </li>
- <li> <a href="#user-content-just6"> How to use `Just My Socks` </a> </li>
-</ol>
+# Highly recommended! `Just My Socks`-Very reliable and stable shadowsocks proxy service!
+## Article directory 
+
+ *  <a href="#user-content-just1"> Introduction to `Just My Socks` </a> 
+ *  <a href="#user-content-just2"> `Just My Socks` purchase </a> 
+ *  <a href="#user-content-just3"> `Just My Socks` coupon code </a> 
+ *  <a href="#user-content-just4"> `Just My Socks` registration </a> 
+ *  <a href="#user-content-just5"> `Just My Socks` information review </a> 
+ *  <a href="#user-content-just6"> How to use `Just My Socks` </a> 
+
 
 `Just My Socks` is currently a very hot Shadowsocks service provider, officially launched by the Bricklayer, each service provides 5 lines, including the fastest CN2 GIA line. The biggest advantage of `Just My Socks` is to ensure that the IP is not blocked. If the IP is blocked, it will automatically replace the new available IP to the user. For friends who just need to look over YouTube, Ins or Google and Google Scholar, `Just My Socks` is a very suitable choice.
 
@@ -102,19 +102,13 @@ After completing `Just My Socks` purchase, log in to <a rel="nofollow" href="htt
 <br class="keepp">
 <a href="https://github.com/killgcd/justmysocks/blob/master/images/jms-4.png" target="_blank" rel="noopener noreferrer"> <img style = "max-width: 100% " src ="https://github.com/killgcd/justmysocks/raw/master/images/jms-4.png" alt =" `Just My Socks` My Services "/> </a>
 
-
-
-
 Here you can see the details of shadowsocks, including shadowsocks encryption method, shadowsocks port, shadowsocks password and shadowsocks IP (5 nodes, issued in the form of domain name):
 <br class="keepp">
 <a href="https://github.com/killgcd/justmysocks/blob/master/images/jms-5.png" target="_blank" rel="noopener noreferrer"> <img style = "max-width: 100% " src ="https://github.com/killgcd/justmysocks/raw/master/images/jms-5.png" alt =" `Just My Socks` shadowsocks details "/> </a>
 
-
 <h2 id = "user-content-just6"> <span id = "just_my_socks-6"> Six, how to use `Just My Socks` </span> </h2>
 
-
 After I have a shadowsocks account, how do I use it next? The rest only needs to download and install the Shadowsocks client and import the purchased server to use it.
-
 
 <h3> On the just_my_socks website, refer to the following figure to download the client corresponding to the operating system </h3>
 <img style = "max-width: 100%" src = "https://github.com/killgcd/justmysocks/raw/master/images/dccn.jpg" alt = "SSclient download" />
@@ -122,8 +116,6 @@ After I have a shadowsocks account, how do I use it next? The rest only needs to
 
  <strong> Note: If you are not satisfied with the trial after purchase, you can request a refund: </strong> <a href="jmstk.md" rel="nofollow"> How does `Just My Socks` refund? (Refund conditions) </a> 
 
-
  <strong> Feedback and communication: </strong> <a href="https://github.com/bannedbook/fanqiang/issues" rel="nofollow"> If you have any questions, welcome everyone communicate with! </a> 
-
 
  <strong> Disclaimer: </strong> Any products and services we recommend have worked hard to ensure they are reliable and lasting, but we are not responsible for them. All resources in this library are only used for communication and learning, please do not use it for commercial or illegal activities! This library is not responsible for any consequences! 
