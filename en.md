@@ -22,7 +22,7 @@ Just My Socks is a Shadowsocks agency service produced by <strong> Official Bric
 <strong> How about Just My Socks? </strong> Each ss account has 5 lines, including the fastest CN2 GIA line, which is very fast.
 </p>
 <p class = "keepp">
-<strong> Who is right for Just My Socks? </strong> If you are just looking at YouTube, brushing ins, or Google just to look over the wall, then you do n’t need to toss VPS at all, you can build your own ss, Just My Socks can easily meet these needs. <strong> Just My Socks disadvantages </strong>: Can't watch Netflix.
+<strong> Who is right for Just My Socks? </strong> If you are just looking at YouTube, brushing ins, or Google just to look over the wall, then you Don't need to toss VPS at all, you can build your own ss, Just My Socks can easily meet these needs. <strong> Just My Socks disadvantages </strong>: Can't watch Netflix.
 </p>
 <p class = "keepp">
 <strong> Supported protocols: TCP or UDP? </strong>
@@ -84,18 +84,18 @@ After choosing the appropriate Just My Socks plan, click "Buy Now" to enter the 
 <br class="keepp">
 Just My Socks official website: <a rel="nofollow" href="https://lihi1.com/l0QrZ"> Just My Socks official website </a>
 </p>
-<a href="https://github.com/killgcd/justmysocks/blob/master/images/jms-1.png" target="_blank" rel="noopener noreferrer"> <img style = "max-width: 100% "src =" https://github.com/killgcd/justmysocks/raw/master/images/jms-1.png "alt =" Just My Socks Buying Tutorial "/> </a>
+<a href="https://github.com/killgcd/justmysocks/blob/master/images/jms-1.png" target="_blank" rel="noopener noreferrer"> <img style = "max-width: 100% " src ="https://github.com/killgcd/justmysocks/raw/master/images/jms-1.png" alt =" Just My Socks Buying Tutorial "/> </a>
 <h2 id = "user-content-just3"> <span id = "just_my_socks-3"> Three, Just My Socks discount code </span> </h2>
 <p class = "keepp">
 When buying Just My Socks, we can use the Just My Socks discount code: <strong> JMS9272283 </strong> to get a 5.2% recurring discount. After entering the discount code, click Validate Code to use the discount code. Click Checkout to pay:
 <br class="keepp">
-<a href="https://github.com/killgcd/justmysocks/blob/master/images/jms-2.png" target="_blank" rel="noopener noreferrer"> <img style = "max-width: 100% "src =" https://github.com/killgcd/justmysocks/raw/master/images/jms-2.png "alt =" Just My Socks discount code "/> </a>
+<a href="https://github.com/killgcd/justmysocks/blob/master/images/jms-2.png" target="_blank" rel="noopener noreferrer"> <img style = "max-width: 100% " src ="https://github.com/killgcd/justmysocks/raw/master/images/jms-2.png" alt =" Just My Socks discount code "/> </a>
 </p>
 <h2 id = "user-content-just4"> <span id = "just_my_socks-4"> Fourth, Just My Socks registration </span> </h2>
 <p class = "keepp">
-Here you need to fill in your Just My Socks account information: <strong> Do n’t hang the agent registration, fill it out truthfully </strong>, otherwise it may be considered fraudulent, where the province can write Pinyin directly (such as Shandong), and choose the payment method as Paypal ( Paypal is more secure) or Alipay. After ticking the terms of service, click Complete Order to complete the order:
+Here you need to fill in your Just My Socks account information: <strong> Don't hang the agent registration, fill it out truthfully </strong>, otherwise it may be considered fraudulent, where the province can write Pinyin directly (such as Shandong), and choose the payment method as Paypal ( Paypal is more secure) or Alipay. After ticking the terms of service, click Complete Order to complete the order:
 <br class="keepp">
-<a href="https://github.com/killgcd/justmysocks/blob/master/images/jms-3.png" target="_blank" rel="noopener noreferrer"> <img style = "max-width: 100% "src =" https://github.com/killgcd/justmysocks/raw/master/images/jms-3.png "alt =" Just My Socks registration information "/> </a>
+<a href="https://github.com/killgcd/justmysocks/blob/master/images/jms-3.png" target="_blank" rel="noopener noreferrer"> <img style = "max-width: 100% " src ="https://github.com/killgcd/justmysocks/raw/master/images/jms-3.png" alt =" Just My Socks registration information "/> </a>
 <br class="keepp">
 After paying with Alipay, your Just My Socks service is purchased.
 </p>
@@ -103,12 +103,12 @@ After paying with Alipay, your Just My Socks service is purchased.
 <p class = "keepp">
 After completing Just My Socks purchase, log in to <a rel="nofollow" href="https://lihi1.com/l0QrZ"> Just My Socks official website </a>, select Services-> My Services, and you will see you Just bought the service, click this service to see details:
 <br class="keepp">
-<a href="https://github.com/killgcd/justmysocks/blob/master/images/jms-4.png" target="_blank" rel="noopener noreferrer"> <img style = "max-width: 100% "src =" https://github.com/killgcd/justmysocks/raw/master/images/jms-4.png "alt =" Just My Socks My Services "/> </a>
+<a href="https://github.com/killgcd/justmysocks/blob/master/images/jms-4.png" target="_blank" rel="noopener noreferrer"> <img style = "max-width: 100% " src ="https://github.com/killgcd/justmysocks/raw/master/images/jms-4.png" alt =" Just My Socks My Services "/> </a>
 </p>
 <p class = "keepp">
 Here you can see the details of shadowsocks, including shadowsocks encryption method, shadowsocks port, shadowsocks password and shadowsocks IP (5 nodes, issued in the form of domain name):
 <br class="keepp">
-<a href="https://github.com/killgcd/justmysocks/blob/master/images/jms-5.png" target="_blank" rel="noopener noreferrer"> <img style = "max-width: 100% "src =" https://github.com/killgcd/justmysocks/raw/master/images/jms-5.png "alt =" Just My Socks shadowsocks details "/> </a>
+<a href="https://github.com/killgcd/justmysocks/blob/master/images/jms-5.png" target="_blank" rel="noopener noreferrer"> <img style = "max-width: 100% " src ="https://github.com/killgcd/justmysocks/raw/master/images/jms-5.png" alt =" Just My Socks shadowsocks details "/> </a>
 </p>
 <h2 id = "user-content-just6"> <span id = "just_my_socks-6"> Six, how to use Just My Socks </span> </h2>
 <p class = "keepp">
