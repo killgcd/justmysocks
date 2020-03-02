@@ -1,4 +1,5 @@
 # Highly recommended! `Just My Socks`-Very reliable and stable `Shadowsocks` proxy service!
+<span id = "head"></span>
 ## Article directory 
 
 * <a href="#user-content-just1"> Introduction to `Just My Socks` </a> 
