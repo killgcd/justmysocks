@@ -102,7 +102,7 @@ Just My Socks 官网：<a rel="nofollow" href="https://lihi1.com/l0QrZ">Just My 
 </p>
 <h2 id="user-content-just5"><span id="just_my_socks-5">五、Just My Socks信息查看</span></h2>
 <p class="keepp">
-完成Just My Socks购买后，登陆<a rel="nofollow" href="https://lihi1.com/l0QrZ">Just My Socks 官网</a>，选择Services-&gt;My Services，就可以看到你刚才买的服务了，点击这个服务查看详情：
+完成Just My Socks购买后，登陆<a rel="nofollow" href="https://lihi1.com/l0QrZ">Just My Socks 官网</a>，选择Services->My Services，就可以看到你刚才买的服务了，点击这个服务查看详情：
 <br class="keepp">
 <a href="https://github.com/killgcd/justmysocks/blob/master/images/jms-4.png" target="_blank" rel="noopener noreferrer"><img style="max-width:100%" src="https://github.com/killgcd/justmysocks/raw/master/images/jms-4.png" alt="Just My Socks 我的服务" /></a>
 </p>
