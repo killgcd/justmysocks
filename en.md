@@ -1,5 +1,4 @@
-<h1> Just My Socks: official wall-covering service for bricklayers, multiple lines, IP is not afraid of being walled </h1>
-<h2> Highly recommended! Just My Socks-Very reliable and stable shadowsocks proxy service! </h2>
+<h1>Highly recommended! Just My Socks-Very reliable and stable shadowsocks proxy service! </h1>
 <h2> Article directory </h2>
 <ol id = "user-content-content-index-contents">
  <li> <a href="#user-content-just1"> Introduction to Just My Socks </a> </li>
