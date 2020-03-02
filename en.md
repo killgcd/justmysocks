@@ -1,12 +1,12 @@
 # Highly recommended! `Just My Socks`-Very reliable and stable shadowsocks proxy service!
 ## Article directory 
 
- *  <a href="#user-content-just1"> Introduction to `Just My Socks` </a> 
- *  <a href="#user-content-just2"> `Just My Socks` purchase </a> 
- *  <a href="#user-content-just3"> `Just My Socks` coupon code </a> 
- *  <a href="#user-content-just4"> `Just My Socks` registration </a> 
- *  <a href="#user-content-just5"> `Just My Socks` information review </a> 
- *  <a href="#user-content-just6"> How to use `Just My Socks` </a> 
+* <a href="#user-content-just1"> Introduction to `Just My Socks` </a> 
+* <a href="#user-content-just2"> `Just My Socks` purchase </a> 
+* <a href="#user-content-just3"> `Just My Socks` coupon code </a> 
+* <a href="#user-content-just4"> `Just My Socks` registration </a> 
+* <a href="#user-content-just5"> `Just My Socks` information review </a> 
+* <a href="#user-content-just6"> How to use `Just My Socks` </a> 
 
 
 `Just My Socks` is currently a very hot Shadowsocks service provider, officially launched by the Bricklayer, each service provides 5 lines, including the fastest CN2 GIA line. The biggest advantage of `Just My Socks` is to ensure that the IP is not blocked. If the IP is blocked, it will automatically replace the new available IP to the user. For friends who just need to look over YouTube, Ins or Google and Google Scholar, `Just My Socks` is a very suitable choice.
