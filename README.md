@@ -113,7 +113,7 @@ Just My Socks 官网：<a rel="nofollow" href="https://lihi1.com/l0QrZ">Just My 
 </p>
 <h2 id="user-content-just6"><span id="just_my_socks-6">六、Just My Socks怎么用</span></h2>
 
-有了shadowsocks账号后，接下来怎么用？剩下的只需要下载安装Shadowsocks客户端（***注意：是Shadowsocks客户端，简称SS客户端，不是SSR客户端，Just My Socks不支持SSR，请使用下面官方网站的下载链接下载客户端***）并导入购买的服务器即可使用啦，其中有1个或2个服务器因为需要使用插件，所以不提供分享二维码和分享连接，需要手工将服务器参数输入客户端。
+有了shadowsocks账号后，接下来怎么用？剩下的只需要下载安装Shadowsocks客户端（***注意：是Shadowsocks客户端，简称SS客户端，不是SSR客户端，Just My Socks不支持SSR，请使用下图中的Just My Socks官方网站的下载链接下载客户端***），然后将购买的服务器导入客户端即可使用啦，其中有1个或2个服务器因为需要使用插件，所以不提供分享二维码和分享连接，需要手工将服务器参数输入客户端。
  
 <h3>在just_my_socks网站，参考下图下载对应操作系统的客户端</h3>
 <img style="max-width:100%" src="https://github.com/killgcd/justmysocks/raw/master/images/dccn.jpg" alt="SS客户端下载" />
