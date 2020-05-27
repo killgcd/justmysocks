@@ -1,5 +1,5 @@
 <h1>Just My Socks：搬瓦工官方翻墙服务，多条线路，IP不怕被墙</h1>
-<h2>力荐！Just My Socks - 非常靠谱稳定的shadowsocks代理服务！</h2>
+<h2>力荐！Just My Socks - 非常靠谱稳定的shadowsocks/V2ray代理服务！</h2>
 <h2>文章目录</h2>
 <ol id="user-content-content-index-contents">
  	<li><a href="#user-content-just1">Just My Socks介绍</a></li>
@@ -10,11 +10,11 @@
  	<li><a href="#user-content-just6">Just My Socks怎么用</a></li>
 </ol>
 <p class="keepp">
-Just My Socks是目前非常火热的一个Shadowsocks服务商（机场），由搬瓦工官方推出，每个服务提供5条线路，包括最快的CN2 GIA线路。Just My Socks最大的优势是保证IP不被墙，如果IP被墙，会自动更换新的可用IP给用户。对于只是需要翻墙看看YouTube、ins或者谷歌以及谷歌学术的朋友，Just My Socks是一个非常合适的选择。
+Just My Socks是目前非常火热的一个Shadowsocks/V2ray服务商（机场），由搬瓦工官方推出，每个服务提供5条线路，包括最快的CN2 GIA线路。Just My Socks最大的优势是保证IP不被墙，如果IP被墙，会自动更换新的可用IP给用户。对于只是需要翻墙看看YouTube、ins或者谷歌以及谷歌学术的朋友，Just My Socks是一个非常合适的选择。
 </p>
 <h2 id="user-content-just1"><span id="just_my_socks">一、Just My Socks介绍</span></h2>
 <p class="keepp">
-Just My Socks是<strong>搬瓦工官方</strong>出品的Shadowsocks代理服务，支持支付宝付款，提供ss账号，每个账号有5条线路，包括<strong>搬瓦工CN2 GIA线路</strong>，性价比很高且非常稳定，比买VPS灵活划算且省得折腾，<strong>保证IP可用，被封自动切换</strong>。
+Just My Socks是<strong>搬瓦工官方</strong>出品的Shadowsocks/V2ray代理服务，支持支付宝付款，提供ss账号，每个账号有5条线路，包括<strong>搬瓦工CN2 GIA线路</strong>，性价比很高且非常稳定，比买VPS灵活划算且省得折腾，<strong>保证IP可用，被封自动切换</strong>。
 </p>
 <p class="keepp">
 <strong>Just My Socks靠谱吗？</strong>不同于其他机场，Just My Socks是搬瓦工官方推出的，已经稳定运行了近1年了（2018年10月推出的），可以说非常靠谱。
@@ -107,13 +107,13 @@ Just My Socks 官网：<a rel="nofollow" href="https://lihi1.com/l0QrZ">Just My 
 <a href="https://rawcdn.githack.com/killgcd/justmysocks/1b37c68c634059695a5ceb046563d13a84766b23/images/jms-4.png" target="_blank" rel="noopener noreferrer"><img style="max-width:100%" src="https://rawcdn.githack.com/killgcd/justmysocks/1b37c68c634059695a5ceb046563d13a84766b23/images/jms-4.png" alt="Just My Socks 我的服务，若图片无法显示请点击查看" /></a>
 </p>
 <p class="keepp">
-这里就可以看到shadowsocks详情了，包括shadowsocks加密方式，shadowsocks端口，shadowsocks密码和shadowsocks IP（有5个节点，域名形式发放）：
+这里就可以看到Shadowsocks/V2ray详情了，包括加密方式，端口，密码和IP（有5个节点，域名形式发放）等等：
 <br class="keepp">
 <a href="https://rawcdn.githack.com/killgcd/justmysocks/1b37c68c634059695a5ceb046563d13a84766b23/images/jms-5.png" target="_blank" rel="noopener noreferrer"><img style="max-width:100%" src="https://rawcdn.githack.com/killgcd/justmysocks/1b37c68c634059695a5ceb046563d13a84766b23/images/jms-5.png" alt="Just My Socks shadowsocks详情，若图片无法显示请点击查看" /></a>
 </p>
 <h2 id="user-content-just6"><span id="just_my_socks-6">六、Just My Socks怎么用</span></h2>
 
-有了shadowsocks账号后，接下来怎么用？剩下的只需要下载安装Shadowsocks客户端（***注意：是Shadowsocks客户端，简称SS客户端，不是SSR客户端，Just My Socks不支持SSR，请使用下图中的Just My Socks官方网站的下载链接下载客户端***），然后将购买的服务器导入客户端即可使用啦，其中有1个或2个服务器因为需要使用插件，所以不提供分享二维码和分享连接，需要手工将服务器参数输入客户端。
+有了Shadowsocks/V2ray账号后，接下来怎么用？剩下的只需要下载安装Shadowsocks/V2ray客户端（***注意：是Shadowsocks客户端，简称SS客户端，不是SSR客户端，Just My Socks不支持SSR，请使用下图中的Just My Socks官方网站的下载链接下载客户端***），然后将购买的服务器导入客户端即可使用啦，其中有1个或2个服务器因为需要使用插件，所以不提供分享二维码和分享连接，需要手工将服务器参数输入客户端。
  
 <h3>在just_my_socks网站，参考下图下载对应操作系统的客户端</h3>
 <img style="max-width:100%" src="https://rawcdn.githack.com/killgcd/justmysocks/1b37c68c634059695a5ceb046563d13a84766b23/images/dccn.jpg" alt="SS客户端下载，若图片无法显示请点击查看" />
