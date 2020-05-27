@@ -113,7 +113,6 @@ Here you can see the details of `Shadowsocks/V2ray` servers, including encryptio
 After I have a `Shadowsocks/V2ray` server, how do I use it next? The rest only needs to download and install the `Shadowsocks/V2ray` client and import the purchased server to use it.
 
 <h3> On the just_my_socks website, refer to the following figure to download the client corresponding to the operating system </h3>
-<img style = "max-width: 100%" src = "https://github.com/killgcd/justmysocks/raw/master/images/dccn.jpg" alt = "SSclient download" />
 <img style = "max-width: 100%" src = "https://github.com/killgcd/justmysocks/raw/master/images/dcen.jpg" alt = "SS client download" />
 
  <strong> Note: If you are not satisfied with the trial after purchase, you can request a refund: </strong> <a href="jmstk.md" rel="nofollow"> How does `Just My Socks` refund? (Refund conditions) </a> 
