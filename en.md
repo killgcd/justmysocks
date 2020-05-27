@@ -1,5 +1,5 @@
 <span id = "head"></span>
-# Highly recommended! `Just My Socks`-Very reliable and stable `Shadowsocks` proxy service!
+# Highly recommended! `Just My Socks`-Very reliable and stable `Shadowsocks/V2ray` proxy service!
 
 ## Article directory 
 
@@ -11,13 +11,13 @@
 * <a href="#user-content-just6"> How to use `Just My Socks` </a> 
 
 
-`Just My Socks` is currently a very hot `Shadowsocks` service provider, officially launched by the [BandwagonHost](https://bandwagonhost.com/aff.php?aff=57057), each service provides 5 lines, including the fastest CN2 GIA line. The biggest advantage of `Just My Socks` is to ensure that the IP is not blocked. If the IP is blocked, it will automatically replace the new available IP to the user. For friends who just need to look over YouTube, Ins or Google and Google Scholar, `Just My Socks` is a very suitable choice.
+`Just My Socks` is currently a very hot `Shadowsocks/V2ray` service provider, officially launched by the [BandwagonHost](https://bandwagonhost.com/aff.php?aff=57057), each service provides 5 lines, including the fastest CN2 GIA line. The biggest advantage of `Just My Socks` is to ensure that the IP is not blocked. If the IP is blocked, it will automatically replace the new available IP to the user. For friends who just need to look over YouTube, Ins or Google and Google Scholar, `Just My Socks` is a very suitable choice.
 
 ## <span id = "user-content-just1"> <span id = "just_my_socks"> I. Introduction to `Just My Socks` </span> </span>
 
-`Just My Socks` is a `Shadowsocks` proxy service officially launched by <strong>  [BandwagonHost](https://bandwagonhost.com/aff.php?aff=57057) </strong>. It supports Paypal payment , Each user get 5 lines, including <strong> BandwagonHost CN2 GIA lines </strong>, Cost-effective and very stable, more flexible and cost-effective than buying a VPS, and saves toss. 
+`Just My Socks` is a `Shadowsocks/V2ray` proxy service officially launched by <strong>  [BandwagonHost](https://bandwagonhost.com/aff.php?aff=57057) </strong>. It supports Paypal payment , Each user get 5 lines, including <strong> BandwagonHost CN2 GIA lines </strong>, Cost-effective and very stable, more flexible and cost-effective than buying a VPS, and saves toss. 
 
-<strong> Is `Just My Socks` reliable? </strong> Unlike other `Shadowsocks` Service, `Just My Socks` is officially launched by [BandwagonHost](https://bandwagonhost.com/aff.php?aff=57057) and has been operating steadily for more than a year (launched in October 2018). It can be said that it is very reliable.
+<strong> Is `Just My Socks` reliable? </strong> Unlike other `Shadowsocks/V2ray` Service, `Just My Socks` is officially launched by [BandwagonHost](https://bandwagonhost.com/aff.php?aff=57057) and has been operating steadily for more than a year (launched in October 2018). It can be said that it is very reliable.
 
 <strong> How about `Just My Socks`? </strong> Each user get 5 lines, including the fastest CN2 GIA line, which is very fast.
 
@@ -104,13 +104,13 @@ After completing `Just My Socks` purchase, log in to <a rel="nofollow" href="htt
 <br class="keepp">
 <a href="https://github.com/killgcd/justmysocks/blob/master/images/jms-4.png" target="_blank" rel="noopener noreferrer"> <img style = "max-width: 100% " src ="https://github.com/killgcd/justmysocks/raw/master/images/jms-4.png" alt =" `Just My Socks` My Services "/> </a>
 
-Here you can see the details of `Shadowsocks`, including `Shadowsocks` encryption method, `Shadowsocks` port, `Shadowsocks` password and `Shadowsocks` IP (5 nodes, issued in the form of domain name):
+Here you can see the details of `Shadowsocks/V2ray` servers, including encryption method, port, password and IP(5 nodes, issued in the form of domain name) etc.:
 <br class="keepp">
 <a href="https://github.com/killgcd/justmysocks/blob/master/images/jms-5.png" target="_blank" rel="noopener noreferrer"> <img style = "max-width: 100% " src ="https://github.com/killgcd/justmysocks/raw/master/images/jms-5.png" alt =" `Just My Socks` `Shadowsocks` details "/> </a>
 
 ## <span id = "user-content-just6"> <span id = "just_my_socks-6"> Six, how to use `Just My Socks` </span> </span>
 
-After I have a `Shadowsocks` account, how do I use it next? The rest only needs to download and install the `Shadowsocks` client and import the purchased server to use it.
+After I have a `Shadowsocks/V2ray` server, how do I use it next? The rest only needs to download and install the `Shadowsocks/V2ray` client and import the purchased server to use it.
 
 <h3> On the just_my_socks website, refer to the following figure to download the client corresponding to the operating system </h3>
 <img style = "max-width: 100%" src = "https://github.com/killgcd/justmysocks/raw/master/images/dccn.jpg" alt = "SSclient download" />
