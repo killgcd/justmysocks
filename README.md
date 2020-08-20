@@ -113,7 +113,29 @@ Just My Socks 官网：<a rel="nofollow" href="https://lihi1.com/l0QrZ">Just My 
 </p>
 <h2 id="user-content-just6"><span id="just_my_socks-6">六、Just My Socks怎么用</span></h2>
 
-有了Shadowsocks/V2ray账号后，接下来怎么用？剩下的只需要下载安装Shadowsocks/V2ray客户端（***注意：Just My Socks不支持SSR，不要使用SSR客户端，请使用下图中的<a rel="nofollow" href="https://lihi1.com/l0QrZ">Just My Socks 官网</a>的下载链接下载客户端***），然后将购买的服务器导入客户端即可使用啦，其中有1个或2个服务器因为需要使用插件，所以不提供分享二维码和分享连接，需要手工将服务器参数输入客户端。
+有了Shadowsocks/V2ray账号后，接下来怎么用？剩下的只需要下载安装Shadowsocks/V2ray客户端（***注意：Just My Socks不支持SSR，不要使用SSR客户端，请使用下图中的<a rel="nofollow" href="https://lihi1.com/l0QrZ">Just My Socks 官网</a>的下载链接下载客户端***），然后将购买的服务器导入客户端即可使用啦。
+
+<b>第1～5条线路介绍</b>
+
+cXs1，cXs2和cXs5通过CN2 GT网络与其他中国联通和中国移动直接连接进行路由。
+
+服务器cXs3通过中国电信提供的CN2 GIA网络进行路由（仅中国电信路由）。
+
+服务器cXs4通过高级中国移动混合路由（在返回路径上具有CN2 GIA）（仅中国移动路由）。
+
+注意2020-08-11作为实验，某些cXs4服务器在返回路径上对所有3个运营商（CU / CM / CT）使用具有GIA支持的荷兰POP
+
+<b>第6条线路：什么是Freedom服务器（s801）？</b>
+
+Freedom服务器可以提供更多的数据传输，具体取决于当前的乘数。该服务器提供了较便宜的路由，并且不提供任何形式的保证。用它来节省您的每月数据传输津贴。
+
+例如，如果当前数据传输倍数= 10，那么您下载的所有内容中只有1/10会计入每月数据配额。
+
+实际示例：假设您下载20GB的文件。如果您使用s1..s5范围内的服务器进行下载，则系统将计入所有20GB的数据传输（加上任何TCP开销）。 但是，如果您使用服务器s801进行此传输，并且当前乘数为10，则系统将仅占该传输的1/10（20 GB / 10 = 2 GB）
+
+注意：数据传输乘数可以随时更改。官方不提供有关服务器s801的任何质量或正常运行时间保证。它是出于礼貌提供的，可以随时脱机使用。
+
+备注：上面是官方解释，简单点就是最后一条线路没有前面5条线路好，所以使用它时流量消耗会进行打折，相当于可以节省流量，但速度要慢点，主要取决于自己的需求。
  
 <h3>在just_my_socks网站，参考下图下载对应操作系统的客户端</h3>
 <img style="max-width:100%" src="https://rawcdn.githack.com/killgcd/justmysocks/1b37c68c634059695a5ceb046563d13a84766b23/images/dccn.jpg" alt="SS客户端下载，若图片无法显示请点击查看" />
