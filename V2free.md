@@ -40,6 +40,3 @@
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2fee/8.jpg)
 
 有任何问题都可以发工单进行咨询。
-
-olvps.com Product/Service: Port Forward 100GB
-Amount: ¥30.00RMB/10GB 说是6倍率，实际只用了10GB
