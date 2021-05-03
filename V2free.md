@@ -1,8 +1,8 @@
 <a name="0"></a>
 
-[![免费SS免费v2ray节点](https://raw.githubusercontent.com/bannedbook/fanqiang/master/v2ss/images/v2free.jpg)](https://v2rss.tk/auth/register?code=MAWA)
+[![免费SS免费v2ray节点](https://raw.githubusercontent.com/bannedbook/fanqiang/master/v2ss/images/v2free.jpg)](https://w1.v2free.net/auth/register?code=MAWA)
 
-[v2rss.tk](https://v2rss.tk/auth/register?code=MAWA)机场是海外人士运营的翻墙服务，注册即可获得免费SS/V2ray/vmess翻墙节点。该机场并推出25%引荐返利计划，引荐者可获得被引荐用户首单25%的返利，例：用户首单购买168元年付套餐，引荐人赚得42元。
+[w1.v2free.net](https://w1.v2free.net/auth/register?code=MAWA)机场是海外人士运营的翻墙服务，注册即可获得免费SS/V2ray/vmess翻墙节点。该机场并推出25%引荐返利计划，引荐者可获得被引荐用户首单25%的返利，例：用户首单购买168元年付套餐，引荐人赚得42元。
 
 ***
 
@@ -14,7 +14,7 @@
 
 **价格**
 
-月付20元、年付A套餐168元、年付B套餐258元、年付C套餐338元，[套餐购买](https://v2rss.tk/auth/register?code=MAWA)
+月付20元、年付A套餐168元、年付B套餐258元、年付C套餐338元，[套餐购买](https://w1.v2free.net/auth/register?code=MAWA)
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2fee/1.PNG)
 
